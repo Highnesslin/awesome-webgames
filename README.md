@@ -12,6 +12,3 @@
 - Full-screen immersive mode
 - Physics-based gameplay
 
-## Follow Us
-- Twitter: [@YourGameHandle](https://twitter.com/YourGameHandle)
-- Join the Discord: [Game Community Invite Link](https://discord.gg/xxxxx)
