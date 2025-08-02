@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://gravityball.top" target="_blank">
-    <img src="https://gravityball.top/snapshot2.png" alt="Gravity Ball Screenshot" width="280"/>
+    <img src="https://www.gravityball.top/snapshot.jpg" alt="Gravity Ball Screenshot" width="280"/>
   </a>
 </p>
 
