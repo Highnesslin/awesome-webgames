@@ -1,52 +1,47 @@
-# 🎮 Gravity Ball - Free Online Jumping Ball Game
+# 🎮 Awesome Web Games
 
-🧲 A fast-paced, physics-based browser game — just click and play!  
-No install. No ads. Pure fun.
-
-👉 **Play now:** [https://gravityball.top](https://gravityball.top)
+> A collection of free, no-install web games powered by modern web technology (Unity WebGL, HTML5, Canvas).  
+> Click and play instantly, no ads, no tracking, just fun.
 
 ---
 
-## 📸 Screenshots
+## 🧲 1. Gravity Ball
 
-<p align="center">
-  <img src="https://gravityball.top/snapshot.jpg" alt="Gameplay" width="480"/>
+<p align="left">
+  <a href="https://gravityball.top" target="_blank">
+    <img src="https://gravityball.top/snapshot2.png" alt="Gravity Ball Screenshot" width="280"/>
+  </a>
 </p>
 
----
+**🔗 Play now:** [https://gravityball.top](https://gravityball.top)
 
-## ✨ Features
+Physics-based one-tap jumping ball game. Bounce, dodge, and master gravity in this minimal arcade challenge.
 
-- 🎯 **Physics-based arcade gameplay**  
-- 📱 Mobile and desktop compatible  
-- 🖥️ Fullscreen immersive mode  
-- ⚡ Loads instantly – no install required  
-- 🧠 Great for reflex & brain training  
-- 🎮 Inspired by games like **Leap On!**
+<details>
+<summary>📖 More info</summary>
 
----
+- ⚙️ Engine: Unity WebGL  
+- 📱 Platform: Mobile & Desktop Browsers  
+- 🎮 Features:  
+  - Physics-based mechanics  
+  - Fullscreen support  
+  - Fast, addictive gameplay  
+- 🧠 Keywords:  
+  `jumping ball, tap game, bouncing ball, casual physics game, Leap On online, free html5 arcade game`  
 
-## 🔍 SEO Keywords
-
-`tapping games, tap game, Jumping Ball Game, Ball Bouncing Game, Jumping Ball, Gravity Jumping Ball, fun tap games, online ball game, bouncing ball, addictive tap game, online puzzle game, brain training game, casual physics game, free online game, Leap On play online, Leap On browser game, html5 tap game, unity webgl game, reaction game`
-
----
-
-## 📖 Description
-
-> **Gravity Ball** is a free, addictive browser game that challenges your reflexes with physics-based jumping action.  
-> Guide the ball, avoid obstacles, and survive as long as you can — all in your browser, without downloads.
+</details>
 
 ---
 
-## 🧱 Built With
+## 🎯 More games coming soon...
 
-- 🛠️ [Unity WebGL](https://unity.com)
-- 🚀 [Next.js](https://nextjs.org)
+Stay tuned for more fun, browser-friendly games!
 
 ---
 
-## 📢 Share & Support
+## 👨‍💻 About the Developer
 
-If you enjoy Gravity Ball, please share it or link to it from your own site:
+unknown
+
+---
 
