@@ -10,7 +10,7 @@ No install. No ads. Pure fun.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://gravityball.top/snapshot2.png" alt="Gameplay" width="480"/>
+  <img src="https://gravityball.top/snapshot.jpg" alt="Gameplay" width="480"/>
 </p>
 
 ---
